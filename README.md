@@ -25,7 +25,7 @@ Project elements:
 
 4. Create and use a .gitignore file
 
-5.Diff split screen
+5. Diff split screen
 
 
 
