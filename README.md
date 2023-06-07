@@ -1,4 +1,4 @@
-# Project 1
+# Project 2
 [RETURN TO HOMEPAGE](https://connor-pfeiffer.github.io/)
 
 ## Learning Objectives:
